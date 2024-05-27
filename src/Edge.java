@@ -36,6 +36,9 @@ public class Edge<Vertex> {
         this.weight = weight;
     }
 
+
+
+
     public Double getWeight() {
         return weight;
     }
